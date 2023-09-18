@@ -1,0 +1,14 @@
+Menghitung Luas dan Keliling Persegi Panjang
+
+Deklarasi variabel
+double panjang, lebar, Luas, Keliling
+
+Deskripsi
+Print "Masukkan panjang: "
+Read panjang
+Print "Masukkan lebar: "
+Read lebar
+Compute Luas = panjang * lebar
+Compute Keliling = 2 * (panjang+lebar)
+Print "Luas : ", Luas
+Print "Keliling : ", Keliling
